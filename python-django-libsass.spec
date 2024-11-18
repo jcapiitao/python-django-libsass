@@ -11,7 +11,7 @@ Summary:        A django-compressor filter to compile Sass files using libsass
 
 License:        BSD
 URL:            https://github.com/torchbox/django-libsass
-Source0:        django-libsass-0.9.tar.gz
+Source0:        %pypi_source
 
 BuildArch:      noarch
 
